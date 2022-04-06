@@ -1,0 +1,51 @@
+bentlerParameters       Bentler and Yuan's Computation of the LRT Index
+                        and the Linear Trend Coefficients
+componentAxis           Principal Component Analysis With Only n First
+                        Components Retained
+corFA                   Insert Communalities in the Diagonal of a
+                        Correlation or a Covariance Matrix
+dFactors                Eigenvalues from classical studies
+diagReplace             Replacing Upper or Lower Diagonal of a
+                        Correlation or Covariance Matrix
+eigenBootParallel       Bootstrapping of the Eigenvalues From a Data
+                        Frame
+eigenComputes           Computes Eigenvalues According to the Data Type
+eigenFrom               Identify the Data Type to Obtain the
+                        Eigenvalues
+generateStructure       Generate a Factor Structure Matrix
+is.nFactors             Utility Functions for nFactors Class Objects
+iterativePrincipalAxis
+                        Iterative Principal Axis Analysis
+makeCor                 Create a Full Correlation/Covariance Matrix
+                        from a Matrix With Lower Part Filled and Upper
+                        Part With Zeros
+moreStats               Statistical Summary of a Data Frame
+nBartlett               Bartlett, Anderson and Lawley Procedures to
+                        Determine the Number of Components/Factors
+nBentler                Bentler and Yuan's Procedure to Determine the
+                        Number of Components/Factors
+nCng                    Cattell-Nelson-Gorsuch CNG Indices
+nFactors                nFactors: Number of factor or components to
+                        retain in a factor analysis
+nMreg                   Multiple Regression Procedure to Determine the
+                        Number of Components/Factors
+nScree                  Non Graphical Cattel's Scree Test
+nSeScree                Standard Error Scree and Coefficient of
+                        Determination Procedures to Determine the
+                        Number of Components/Factors
+parallel                Parallel Analysis of a Correlation or
+                        Covariance Matrix
+plotParallel            Plot a Parallel Analysis Class Object
+plotnScree              Scree Plot According to a nScree Object Class
+plotuScree              Plot of the Usual Cattell's Scree Test
+principalAxis           Principal Axis Analysis
+principalComponents     Principal Component Analysis
+rRecovery               Test of Recovery of a Correlation or a
+                        Covariance matrix from a Factor Analysis
+                        Solution
+structureSim            Population or Simulated Sample Correlation
+                        Matrix from a Given Factor Structure Matrix
+studySim                Simulation Study from Given Factor Structure
+                        Matrices and Conditions
+summary.nScree          Utility Functions for nScree Class Objects
+summary.structureSim    Utility Functions for nScree Class Objects
